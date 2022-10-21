@@ -129,7 +129,16 @@
     }
   ],
   "Categories": [
-     {
+    {
+      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Name": "Get started",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        
+    {
       "Id": "47455ee6-1d8c-4a05-91a7-1182e6d1e558",
       "Name": "Enquiry Management",
       "Image": "",
@@ -155,7 +164,9 @@
           "Source": "Microsoft",
           "SubCategories": []
         },
-    {
+         ]
+    },
+     {
       "Id": "c102f333-0dff-41cc-a984-81fdaed32537",
       "Name": "Onboarding",
       "Image": "",
