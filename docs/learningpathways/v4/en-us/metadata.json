@@ -194,24 +194,7 @@
         }
       ]
     },
-    {
-      "Id": "c102f333-0dff-41cc-a984-81fdaed32537",
-      "Name": "Onboarding test",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Custom",
-      "SubCategories": [
-        {
-          "Id": "f43db1f7-8adf-4aee-b3b7-1b3c092fee47",
-          "Name": "First 30 Days",
-          "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Custom",
-          "SubCategories": []
-        },
-     {
+      {
       "Id": "c102f333-0dff-41cc-a984-81fdaed32537",
       "Name": "Onboarding",
       "Image": "",
