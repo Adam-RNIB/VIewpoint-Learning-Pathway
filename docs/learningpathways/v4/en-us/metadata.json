@@ -131,7 +131,7 @@
   "Categories": [
       {
       "Id": "c102f333-0dff-41cc-a984-81fdaed32537",
-      "Name": "Onboarding",
+      "Name": "Pull Through Test",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -139,7 +139,7 @@
       "SubCategories": [
         {
           "Id": "f43db1f7-8adf-4aee-b3b7-1b3c092fee47",
-          "Name": "First 30 Days",
+          "Name": "Process Steps",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "",
           "SubjectId": null,
@@ -148,7 +148,7 @@
         },
         {
           "Id": "e70d3424-5f61-4800-9691-c152f5926bc4",
-          "Name": "First 60 Days",
+          "Name": "Advice Team",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": null,
