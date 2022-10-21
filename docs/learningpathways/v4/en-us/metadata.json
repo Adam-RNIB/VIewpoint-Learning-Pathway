@@ -155,18 +155,7 @@
           "Source": "Microsoft",
           "SubCategories": []
         },
-        {
-          "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
-          "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    },
-     {
+    {
       "Id": "c102f333-0dff-41cc-a984-81fdaed32537",
       "Name": "Onboarding",
       "Image": "",
