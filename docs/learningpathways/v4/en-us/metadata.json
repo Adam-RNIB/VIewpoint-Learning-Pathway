@@ -74,17 +74,9 @@
       "Name": "SharePoint",
       "Subjects": [
         {
-          "Id": "e772e866-7b81-4e5c-bfad-36aa9ee98eaf",
-          "Name": "Site Planning"
-        },
-        {
           "Id": "c0af989f-3c4b-4f6f-ba58-7f2a335cb445",
           "Name": "Site Creation"
         },
-        {
-          "Id": "2324ad0f-5577-408f-b5aa-fad1e5a8f208",
-          "Name": "Site Branding and Customization"
-        }
       ]
     },
     {
@@ -98,28 +90,18 @@
       "Subjects": []
     },
     {
-      "Id": "b8074cb4-dcd4-40ca-a6c1-17472b09e85e",
-      "Name": "Yammer",
-      "Subjects": []
-    },
-    {
-      "Id": "e9d69805-edb5-43da-8258-5520000bf3a6",
-      "Name": "Sway",
-      "Subjects": []
-    },
-    {
       "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
       "Name": "Accessibility",
       "Subjects": []
     },
     {
       "Id": "3edeb182-3828-4a83-aef9-928a2693e288",
-      "Name": "Outlook for iOS and Android",
+      "Name": "Zoomtext",
       "Subjects": []
     },
     {
       "Id": "9c18d262-89c5-499b-be11-be58279c86bd",
-      "Name": "Access",
+      "Name": "JAWS",
       "Subjects": []
     },
     {
@@ -136,35 +118,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": [
-        {
-          "Id": "58f4056e-81f4-4adf-951f-0d2901100e77",
-          "Name": "Process Steps",
-          "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "d9ecd871-842b-4d78-8a1e-6e5b88c24948",
-          "Name": "Advice Team",
-          "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
-          "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     },
      {
       "Id": "c102f333-0dff-41cc-a984-81fdaed32537",
