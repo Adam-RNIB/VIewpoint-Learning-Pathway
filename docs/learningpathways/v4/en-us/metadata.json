@@ -136,35 +136,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
-      "SubCategories": [
-        {
-          "Id": "58f4056e-81f4-4adf-951f-0d2901100e77",
-          "Name": "Process Steps",
-          "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "d9ecd871-842b-4d78-8a1e-6e5b88c24948",
-          "Name": "Advice Team",
-          "Image": "images/categories/work_remotely.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
-          "Image": "images/categories/LP-security-subcategory.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
+      "SubCategories": []
     },
      {
       "Id": "c102f333-0dff-41cc-a984-81fdaed32537",
