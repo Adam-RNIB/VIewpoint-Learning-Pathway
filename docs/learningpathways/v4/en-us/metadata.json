@@ -131,7 +131,7 @@
   "Categories": [
     {
       "Id": "47455ee6-1d8c-4a05-91a7-1182e6d1e558",
-      "Name": "Core Processes",
+      "Name": "Viewpoint",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -140,7 +140,7 @@
     },
      {
       "Id": "c102f333-0dff-41cc-a984-81fdaed32537",
-      "Name": "Safeguarding Processes",
+      "Name": "Transitions Processes",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
